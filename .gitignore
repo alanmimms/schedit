@@ -17,3 +17,5 @@ instrumented
 .DS_Store
 .idea
 dist
+*~
+.*~
